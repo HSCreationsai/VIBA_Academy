@@ -1,4 +1,9 @@
 # Byte-compiled / optimized / DLL files
+hiberfil.sys
+msdia80.dll
+pagefile.sys
+swapfile.sys
+vfcompat.dll
 __pycache__/
 *.py[cod]
 *$py.class
